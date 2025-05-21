@@ -1,0 +1,5 @@
+<center>
+<h1> vijay actor page </h1>
+</center>
+  <hr>
+  
